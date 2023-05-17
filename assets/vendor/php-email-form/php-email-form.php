@@ -1,4 +1,4 @@
-<?php include("contactform.php"); ?>
+<?php include("contact.php"); ?>
 
 <!DOCTYPE html>
 <html>
